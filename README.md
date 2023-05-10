@@ -1,7 +1,7 @@
 # Curso-Big-Data---ML
 Primeros pasos aprendiendo Machine Learning
 
-##Lunes 8
+## Lunes 8
 Andrei M4 - 06 - Bucles.ipynb
     Archivo de estudio y práctica de bucles en Python
 
@@ -14,7 +14,7 @@ Andrei M5 - 01 - Python Notebook.ipynb
 Andrei M5 - 02 - Condicionales.ipynb
     Archivo de estudio y práctica de condicionales en Python
 
-##Martes 9
+## Martes 9
 Andrei M4 - 10 - Pandas.ipynb
     Archivo de estudio y práctica de uso de la librería Pandas, una introducción
 
