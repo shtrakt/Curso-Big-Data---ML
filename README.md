@@ -31,21 +31,31 @@ Archivo de estudio y práctica de Data Collection con el caso SpaceX
 
 Archivo de estudio y práctica de creación de gráficas
 
-##Miércoles 10
-###Andrei M4 - 07 - Numpy 1D.ipynb
+### Launch_data_Falcon_9.csv
+
+archivo resultado de SpaceX - 4
+
+###dataset_part_2.csv
+
+dataset para SpaceX_2
+
+## Miércoles 10
+### Andrei M4 - 07 - Numpy 1D.ipynb
 
 Archivo de estudio y práctica de uso de la librería Numpy, una introducción
 
-###Andrei M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb
+### Andrei M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb
 
 Introducción al ML. Archivo de estudio y práctica de uso de la librería Scikit, una introducción
 
-###Andrei M5 - 09 - Folium.ipynb
+### Andrei M5 - 09 - Folium.ipynb
 
 Archivo de estudio y práctica de uso de la librería Folium, una introducción
 
-###Andrei Prophet - Predecir el valor de Bitcoin
+### Andrei Prophet - Predecir el valor de Bitcoin
 
 Archivo de estudio y práctica de Prophet, una introducción
 
-###world_countries.json
+### world_countries.json
+
+dataset para Folium
