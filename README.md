@@ -30,3 +30,22 @@ Archivo de estudio y práctica de Data Collection con el caso SpaceX
 ### Andrei SpaceX - 4 - EDA with Data Visualization.ipynb
 
 Archivo de estudio y práctica de creación de gráficas
+
+##Miércoles 10
+###Andrei M4 - 07 - Numpy 1D.ipynb
+
+Archivo de estudio y práctica de uso de la librería Numpy, una introducción
+
+###Andrei M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb
+
+Introducción al ML. Archivo de estudio y práctica de uso de la librería Scikit, una introducción
+
+###Andrei M5 - 09 - Folium.ipynb
+
+Archivo de estudio y práctica de uso de la librería Folium, una introducción
+
+###Andrei Prophet - Predecir el valor de Bitcoin
+
+Archivo de estudio y práctica de Prophet, una introducción
+
+###world_countries.json
