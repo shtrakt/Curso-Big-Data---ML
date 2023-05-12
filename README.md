@@ -35,7 +35,7 @@ Archivo de estudio y práctica de creación de gráficas
 
 archivo resultado de SpaceX - 4
 
-###dataset_part_2.csv
+### dataset_part_2.csv
 
 dataset para SpaceX_2
 
@@ -59,3 +59,20 @@ Archivo de estudio y práctica de Prophet, una introducción
 ### world_countries.json
 
 dataset para Folium
+
+## Jueves 11
+### Andrei M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb
+
+Trabajando con Folium para mostrar coordenadas
+
+### Andrei M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb
+
+Buscando modelos ML que mejor se adaptan a un dataset
+
+### dataset_one-hot.csv
+
+data set limpiado
+
+### spacex_launch_geo.csv
+
+dataset original
