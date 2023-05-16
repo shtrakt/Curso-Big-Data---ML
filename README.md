@@ -76,3 +76,9 @@ data set limpiado
 ### spacex_launch_geo.csv
 
 dataset original
+
+## Viernes 12
+
+### Andrei M5 - 10 - Matplotlib y Seaborn.ipynb
+
+Trabajando con Matplotlib y Seaborn
