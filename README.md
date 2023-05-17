@@ -82,3 +82,13 @@ dataset original
 ### Andrei M5 - 10 - Matplotlib y Seaborn.ipynb
 
 Trabajando con Matplotlib y Seaborn
+
+## Martes 16
+
+### Andrei M5 - 04 - Funciones.ipynb
+
+Aprendiendo a crear funciones
+
+### Andrei M4 - 06 - Clases.ipynb
+
+Aprendiendo a crear clases con funciones
