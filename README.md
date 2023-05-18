@@ -92,3 +92,9 @@ Aprendiendo a crear funciones
 ### Andrei M4 - 06 - Clases.ipynb
 
 Aprendiendo a crear clases con funciones
+
+## Miércoles 17
+
+### Andrei M6 - 04 - Programación Funcional.ipynb
+
+Aprendiedno a usar progamación funcional
