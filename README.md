@@ -40,6 +40,7 @@ archivo resultado de SpaceX - 4
 dataset para SpaceX_2
 
 ## Miércoles 10
+
 ### Andrei M4 - 07 - Numpy 1D.ipynb
 
 Archivo de estudio y práctica de uso de la librería Numpy, una introducción
@@ -56,9 +57,9 @@ Archivo de estudio y práctica de uso de la librería Folium, una introducción
 
 Archivo de estudio y práctica de Prophet, una introducción
 
-### world_countries.json
+### Archivos de data usados
 
-dataset para Folium
+world_countries.json
 
 ## Jueves 11
 ### Andrei M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb
@@ -69,13 +70,11 @@ Trabajando con Folium para mostrar coordenadas
 
 Buscando modelos ML que mejor se adaptan a un dataset
 
-### dataset_one-hot.csv
+### Archivos data de trabajo
 
-data set limpiado
+dataset_one-hot.csv               data set limpiado
 
-### spacex_launch_geo.csv
-
-dataset original
+spacex_launch_geo.csv             dataset original
 
 ## Viernes 12
 
@@ -97,4 +96,28 @@ Aprendiendo a crear clases con funciones
 
 ### Andrei M6 - 04 - Programación Funcional.ipynb
 
-Aprendiedno a usar progamación funcional
+Aprendiendo a usar progamación funcional
+
+## Viernes 19
+
+### Andrei M6 - 05 - SparkSession Teoría.ipynb
+
+Teoría sobre Spark
+
+### Andrei M6 - 06 - Primer RDD Teoría.ipynb
+
+Teoría de RDDs
+
+### Andrei M6 - 07 - Transformaciones y Acciones sobre RDDs.ipynb
+
+Ejercicios de entrenamiento con Spark, RDDs y funciones
+
+### Archivos de data usados
+
+deportista.csv
+
+deportista2.csv
+
+paises.csv
+
+resultados.csv
